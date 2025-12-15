@@ -1,0 +1,7 @@
+{
+  "name": "Jemine AI",
+  "description": "An intelligent patient engagement and medication adherence assistant for healthcare providers in Africa. Features automated reminders, loyalty rewards, and AI-driven communication.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
